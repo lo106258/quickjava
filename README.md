@@ -1,2 +1,2 @@
 # quickjava
-QuickJava 快速开发框架
+QuickJava Rapid Development Framework
